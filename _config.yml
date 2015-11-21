@@ -1,0 +1,28 @@
+name: darrenhull
+favicon: null
+layout_spectrum: 0.3068034697789699
+typography_spectrum: 0.5331859621219337
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.6909736879169941
+  lightness: 0.14122424111701548
+  saturation: 0.6377123568672687
+  rhythmicContrast: 0.21553973224945366
+purpose: []
